@@ -3,5 +3,5 @@ a.out
 token.txt
 .vscode/
 .gitignore
-
+.tern-project
 
