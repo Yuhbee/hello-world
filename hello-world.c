@@ -6,6 +6,7 @@ int main() {
     printf("Hallo Welt!\n");
     printf("Hallo Welten!\n");
     printf("Hallo, dem Rest der Welt!\n");
+    printf("Uff!");
     printf("...\n");
     printf("\n");
     return 0;
